@@ -1,6 +1,6 @@
 streamlit
-numpy==1.21.0
+numpy
 cython
 pandas
 joblib
-scikit-surprise
+surprise
