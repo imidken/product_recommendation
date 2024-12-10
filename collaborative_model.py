@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
+np._import_array()
 from joblib import dump, load
 
 # Đọc dữ liệu kkhách hàng, sản phẩm, đánh giá
