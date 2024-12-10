@@ -1,5 +1,5 @@
 streamlit
-numpy
+numpy==1.26.2
 cython
 pandas
 joblib
